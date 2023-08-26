@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>GROUP PROJECT OF CDAC PG-HPCSA Students</h1>
+    <h1>GROUP PROJECT OF CDAC-ACTS PG-HPCSA Students</h1>
     <h2>(SIDDHESH, ABOLI, SANIKA, VIKAS, INDRAJEET)</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
