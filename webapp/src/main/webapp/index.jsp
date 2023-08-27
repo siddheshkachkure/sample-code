@@ -33,6 +33,6 @@
   </div>
 
    <h1> Here is my sample webpage</h1>
-   <h2> Thank You </h2>
+   <h2> THANK YOU</h2>
   
 </form>
