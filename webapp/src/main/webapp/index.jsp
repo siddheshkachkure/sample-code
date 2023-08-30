@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Project Group Number.: 05  CDAC PG-HPCSA SAMPLE LOGIN WEB-PAGE </h1>
     <h2>[SIDDHESH, ABOLI, SANIKA, VIKAS, INDRAJEET]</h2>
-    <h3>30-08-2023 Wednesday<h3>
+    <h3>30-08-2023 WEDNESDAY<h3>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
